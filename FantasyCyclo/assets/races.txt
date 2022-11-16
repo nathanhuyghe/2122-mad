@@ -1,0 +1,129 @@
+5/09/2021 Kessel
+11/09/2021 Lokeren - Ethias Cross
+11/09/2021 Lützelbach
+12/09/2021 Wiekevorst
+18/09/2021 Beringen - Ethias Cross
+18/09/2021 Jablines-Annet
+18/09/2021 Knesselare
+18/09/2021 Roanoke - dag 1
+18/09/2021 Vorselaar
+19/09/2021 Derby - National Trophy Series
+19/09/2021 Fort-Koningshooikt
+19/09/2021 Les Franqueses
+19/09/2021 Roanoke - dag 2
+25/09/2021 Bredene - Ethias Cross
+25/09/2021 Rochester - USCX 1
+25/09/2021 Wuustwezel
+26/09/2021 Boulzicourt
+26/09/2021 Illnau
+26/09/2021 Rochester - USCX 2
+28/09/2021 Mlada Boleslav - Toi Toi Cup
+2/10/2021 Asker
+2/10/2021 Baltimore - Charm City Cross 1
+2/10/2021 Hlinsko - Toi Toi Cup
+2/10/2021 Pierric
+2/10/2021 Meulebeke - Ethias Cross
+3/10/2021 Asker
+3/10/2021 Baltimore - Charm City Cross 2
+3/10/2021 Gieten - Superprestige
+3/10/2021 Jesolo
+3/10/2021 Kasterlee
+3/10/2021 Pierric
+8/10/2021 Waterloo
+9/10/2021 Brumath
+9/10/2021 Dohnany
+9/10/2021 Pontevedra
+9/10/2021 Slany - Toi Toi Cup
+9/10/2021 Täby Park
+10/10/2021 Marin-Pontevedra
+10/10/2021 Milnthorpe
+10/10/2021 Podbrezova
+10/10/2021 Stockholm
+10/10/2021 Waterloo - Wereldbeker
+13/10/2021 Fayetteville - Wereldbeker
+15/10/2021 Iowa City
+16/10/2021 Iowa City
+16/10/2021 Moerkerke
+16/10/2021 Rymarov - Toi Toi Cup
+17/10/2021 Clonmel co Tipperary
+17/10/2021 Heusden-Zolder
+17/10/2021 Iowa City - Wereldbeker
+17/10/2021 Oisterwijk
+21/10/2021 Ardooie - Kermiscross
+23/10/2021 Herenthout
+23/10/2021 Mason
+23/10/2021 Ruddervoorde - Superprestige
+23/10/2021 Quelneuc - Coupe de France
+24/10/2021 Falkirk
+24/10/2021 Mason
+24/10/2021 Quelneuc - Coupe de France
+24/10/2021 Zonhoven - Wereldbeker
+30/10/2021 Contern
+30/10/2021 Indianapolis
+30/10/2021 Mol - Zilvermeercross
+31/10/2021 Brugherio - Monza
+31/10/2021 Indianapolis
+31/10/2021 München
+31/10/2021 Nossegem
+31/10/2021 Overijse - Wereldbeker
+1/11/2021 Cremona
+1/11/2021 Dijon
+1/11/2021 Oudenaarde - X2O Trofee
+6/11/2021- 7/11/2021 Col du Cam - EK
+6/11/2021 Laudio-Llodio
+6/11/2021 Northampton
+6/11/2021 Rijkevorsel
+7/11/2021 Arendonk
+7/11/2021 Karrantza
+7/11/2021 Northampton
+11/11/2021 Lutterbach
+11/11/2021 Niel - Superprestige
+21/11/2021 Sunderland
+13/11/2021 Ardooie
+13/11/2021 Bagnoles de l'Orne - Coupe de France
+13/11/2021 Falmouth
+13/11/2021 Leuven - Ethias Cross
+13/11/2021 Timisoara
+13/11/2021 Topolcianky
+14/11/2021 Bagnoles de l'Orne - Coupe de France
+14/11/2021 Falmouth
+14/11/2021 Nobeyama Nagano
+14/11/2021 Tabor - Wereldbeker
+14/11/2021 Zingem
+17/11/2021 Veseli nad Luznici
+20/11/2021 Boortmeerbeek-Hever
+20/11/2021 Hendersonville
+20/11/2021 Merksplas - Superprestige
+20/11/2021 Samorin
+21/11/2021 Alcobendas
+21/11/2021 Diepenbeek
+21/11/2021 Gosciecin
+21/11/2021 Hendersonville
+21/11/2021 Hittnau
+21/11/2021 Koksijde - Wereldbeker
+21/11/2021 Kusatsu City
+21/11/2021 La Grandeville
+21/11/2021 Samorin
+27/11/2021 Kortrijk - X2O Trofee
+28/11/2021 Abadino
+28/11/2021 Besançon
+28/11/2021 City of Langford
+28/11/2021 Hamme - BK Elite 3
+28/11/2021 Sint-Truiden
+3/12/2021- 4/12/2021 WK Masters
+4/12/2021 Boom - Superprestige
+4/12/2021 Lichtervelde
+5/12/2021 Antwerpen - Wereldbeker
+11/12/2021 Essen - Ethias Cross
+11/12/2021 Jicin - Toi Toi Cup
+11/12/2021 Troyes - Coupe de France
+12/12/2021 Val Di Sole - Wereldbeker
+18/12/2021 Rucphen - Wereldbeker
+19/12/2021 Balegem
+19/12/2021 Namen - Wereldbeker
+26/12/2021 Beernem
+26/12/2021 Dendermonde - Wereldbeker
+26/12/2021 Kerniel-Borgloon
+27/12/2021 Heusden-Zolder - Superprestige
+29/12/2021 Diegem - Superprestige
+30/12/2021 Loenhout - X2O Trofee

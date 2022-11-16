@@ -1,0 +1,252 @@
+[
+  {
+    "birthdate": "01/19/1995",
+    "country_id": "IspMChUvMHJyw1gfEnQo",
+    "credits": 1500,
+    "firstname": "Mathieu",
+    "image": "",
+    "name": "VAN DER POEL",
+    "team_id": "",
+    "uci_ranking": 14
+  },
+  {
+    "birthdate": "09/15/1994",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1400,
+    "firstname": "Wout",
+    "image": "",
+    "name": "VAN AERT",
+    "team_id": "",
+    "uci_ranking": 19
+  },
+  {
+    "birthdate": "07/30/1999",
+    "country_id": "CcqRJeQ5OMnZmItvhmTT",
+    "credits": 1300,
+    "firstname": "Tom",
+    "image": "",
+    "name": "PIDCOCK",
+    "team_id": "",
+    "uci_ranking": 23
+  },
+  {
+    "birthdate": "10/19/1993",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1300,
+    "firstname": "Toon",
+    "image": "",
+    "name": "AERTS",
+    "team_id": "",
+    "uci_ranking": 2
+  },
+  {
+    "birthdate": "10/22/1997",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1300,
+    "firstname": "Eli",
+    "image": "",
+    "name": "ISERBYT",
+    "team_id": "",
+    "uci_ranking": 1
+  },
+  {
+    "birthdate": "07/29/1995",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1200,
+    "firstname": "Quinten",
+    "image": "",
+    "name": "HERMANS",
+    "team_id": "",
+    "uci_ranking": 3
+  },
+  {
+    "birthdate": "12/07/1993",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1100,
+    "firstname": "Laurens",
+    "image": "",
+    "name": "SWEECK",
+    "team_id": "",
+    "uci_ranking": 7
+  },
+  {
+    "birthdate": "12/10/1993",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 1100,
+    "firstname": "Michael",
+    "image": "",
+    "name": "VANTHOURENHOUT",
+    "team_id": "",
+    "uci_ranking": 4
+  },
+  {
+    "birthdate": "07/23/1991",
+    "country_id": "IspMChUvMHJyw1gfEnQo",
+    "credits": 1000,
+    "firstname": "Lars",
+    "image": "",
+    "name": "VAN DER HAAR",
+    "team_id": "",
+    "uci_ranking": 5
+  },
+  {
+    "birthdate": "8/07/1991",
+    "country_id": "IspMChUvMHJyw1gfEnQo",
+    "credits": 900,
+    "firstname": "Corne",
+    "image": "",
+    "name": "VAN KESSEL",
+    "team_id": "",
+    "uci_ranking": 15
+  },
+  {
+    "birthdate": "12/19/1994",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 900,
+    "firstname": "Daan",
+    "image": "",
+    "name": "SOETE",
+    "team_id": "",
+    "uci_ranking": 9
+  },
+  {
+    "birthdate": "06/18/1989",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 800,
+    "firstname": "Vincent",
+    "image": "",
+    "name": "BAESTAENS",
+    "team_id": "",
+    "uci_ranking": 6
+  },
+  {
+    "birthdate": "6/05/1992",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Jens",
+    "image": "",
+    "name": "ADAMS",
+    "team_id": "",
+    "uci_ranking": 18
+  },
+  {
+    "birthdate": "12/10/2000",
+    "country_id": "IspMChUvMHJyw1gfEnQo",
+    "credits": 700,
+    "firstname": "Ryan",
+    "image": "",
+    "name": "KAMP",
+    "team_id": "",
+    "uci_ranking": 11
+  },
+  {
+    "birthdate": "06/19/1999",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Toon",
+    "image": "",
+    "name": "VANDENBOSH",
+    "team_id": "",
+    "uci_ranking": 16
+  },
+  {
+    "birthdate": "03/27/1991",
+    "country_id": "DNp6V79tmS9CnyyKRb4Z",
+    "credits": 600,
+    "firstname": "Kerry",
+    "image": "",
+    "name": "WERNER",
+    "team_id": "",
+    "uci_ranking": 8
+  },
+  {
+    "birthdate": "07/20/2001",
+    "country_id": "IspMChUvMHJyw1gfEnQo",
+    "credits": 700,
+    "firstname": "Pim",
+    "image": "",
+    "name": "RONHAAR",
+    "team_id": "",
+    "uci_ranking": 10
+  },
+  {
+    "birthdate": "09/19/2000",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Niels",
+    "image": "",
+    "name": "VANDEPUTTE",
+    "team_id": "",
+    "uci_ranking": 13
+  },
+  {
+    "birthdate": "2/04/2002",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Emiel",
+    "image": "",
+    "name": "VERSTRYNGE",
+    "team_id": "",
+    "uci_ranking": 27
+  },
+  {
+    "birthdate": "10/12/2002",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Thibau",
+    "image": "",
+    "name": "NYS",
+    "team_id": "",
+    "uci_ranking": 181
+  },
+  {
+    "birthdate": "10/07/1988",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Tom",
+    "image": "",
+    "name": "MEEUSEN",
+    "team_id": "",
+    "uci_ranking": 80
+  },
+  {
+    "birthdate": "4/01/1995",
+    "country_id": "YiKfMdCggCVh7ezukqJv",
+    "credits": 600,
+    "firstname": "Felipe",
+    "image": "",
+    "name": "ORTS LLORET",
+    "team_id": "",
+    "uci_ranking": 37
+  },
+  {
+    "birthdate": "12/17/1993",
+    "country_id": "k6N1v94DeZ74Iuio7QyJ",
+    "credits": 600,
+    "firstname": "Diether",
+    "image": "",
+    "name": "SWEECK",
+    "team_id": "",
+    "uci_ranking": 123
+  },
+  {
+    "birthdate": "02/18/1998",
+    "country_id": "JrTOO6EutlCjDnqgwZhz",
+    "credits": 600,
+    "firstname": "Kevin",
+    "image": "",
+    "name": "KUHN",
+    "team_id": "",
+    "uci_ranking": 17
+  },
+  {
+    "birthdate": "8/09/1992",
+    "country_id": "HsCBioCtxIr9sFnYPMwt",
+    "credits": 600,
+    "firstname": "Michael",
+    "image": "",
+    "name": "BOROS",
+    "team_id": "",
+    "uci_ranking": 28
+  }
+]

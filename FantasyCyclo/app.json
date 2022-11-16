@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "FantasyCyclo",
+    "slug": "FantasyCyclo",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 6,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.nathanhuyghe.FantasyCyclo"
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "description": ""
+  }
+}
